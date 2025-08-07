@@ -105,12 +105,6 @@ Google Support Guide
 
 ![App Screenshot](https://github.com/SIDDARTHAREDDY8/crypto-dashboard/blob/main/img5.png?raw=true)
 
----
-
-##
-
-**📜 License**
-This project is licensed under the MIT License.
 
 ---
 ## 👤 Author
